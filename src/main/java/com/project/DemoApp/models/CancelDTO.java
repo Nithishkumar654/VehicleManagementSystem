@@ -8,16 +8,4 @@ public class CancelDTO {
     private String email;
     private String licensePlate;
     private int reservationId;
-
-    public String getEmail() {
-        return email;
-    }
-
-    public String getLicensePlate() {
-        return licensePlate;
-    }
-
-    public int getReservationId() {
-        return reservationId;
-    }
 }
